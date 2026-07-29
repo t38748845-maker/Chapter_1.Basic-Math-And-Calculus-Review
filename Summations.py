@@ -1,20 +1,27 @@
-# calculating partial derivatives with sympy...
+# Performing summation in python... 
+
+summation = sum(2 * i for i in range(1, 6))
+print(summation)
+
+# Summation of elements in python... 
+# add(x) * 10 = 130✓
+x = [1, 4, 6, 2]
+n = len(x) 
+
+summation = sum(10 * x [i] for i in range(0, n))
+print(summation)
+
+# -----------------------------------------------------------#
+
 from sympy import *
-from sympy.plotting import plot3d
 
-# declare x and y to sympy...
-x, y = symbols('x y')
+i, n = symbols('i n')
 
-# declearing the function...
-f = 2*x**3 + 3*y**3
- 
-# calculate partial derivatives for x and y..
-dx_f = diff(f, x) 
-dy_f = diff(f, y)
+# iterate each element i from 1 to n...
+# then multiply and sum...
+summation = Sum(2 * i , (i, 1 , n))
 
-# printing...
-print(dx_f)
-print(dy_f)
-
-# plot the function...
-plot3d(f)
+# specify n as 5...
+# iterating the numbers 1 through 5...
+up_to_5 = summation.subs(n, 5)
+print(up_to_5.doit())

@@ -20,4 +20,3 @@ t = 2.0
 
 a = p * exp(r * t)
 print(a)
-#

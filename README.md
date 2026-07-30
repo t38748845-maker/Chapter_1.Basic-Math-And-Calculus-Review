@@ -12,7 +12,8 @@ Types of Numbers:
 1️⃣Natural Numbers (N): 1, 2, 3, 4, ...
 2️⃣Whole Numbers (W): 0, 1, 2, 3, ...
 3️⃣Integers (Z): ..., -3, -2, -1, 0, 1, 2,...
-4️⃣Rational Numbers (Q): Numbers that can be written as a fraction.5️⃣Irrational Numbers: Cannot be written as a            fraction (√2, π).
+4️⃣Rational Numbers (Q): Numbers that can be written as a fraction.
+5️⃣Irrational Numbers: Cannot be written as a            fraction (√2, π).
 6️⃣Real Numbers (R): Rational + irrational numbers.
  
 Example

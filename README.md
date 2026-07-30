@@ -3,21 +3,25 @@
 2️⃣https://github.com
 
  # 1. Number Theory
-Definition
-Number theory is the branch of mathematics that studies numbers and their properties.
-Types of Numbers
-Natural Numbers (N): 1, 2, 3, 4, ...
-Whole Numbers (W): 0, 1, 2, 3, ...
-Integers (Z): ..., -3, -2, -1, 0, 1, 2, ...
-Rational Numbers (Q): Numbers that can be written as a fraction.
-Irrational Numbers: Cannot be written as a fraction (√2, π).
-Real Numbers (R): Rational + irrational numbers.
+
+Definition:
+=>Number theory is the branch of mathematics that studies numbers and their properties.
+
+Types of Numbers:
+  Natural Numbers (N): 1, 2, 3, 4, ...
+  Whole Numbers (W): 0, 1, 2, 3, ...
+  Integers (Z): ..., -3, -2, -1, 0, 1, 2,...
+  Rational Numbers (Q): Numbers that can be written as a fraction.
+  Irrational Numbers: Cannot be written as a            fraction (√2, π).
+  Real Numbers (R): Rational + irrational numbers.
 Example
 7 → Natural number
 -4 → Integer
 3/5 → Rational number
 √5 → Irrational number
+
 2. Order of Operations (PEMDAS/BODMAS)
+
 Always solve expressions in this order:
 Parentheses
 Exponents

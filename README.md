@@ -15,7 +15,7 @@ Types of Numbers:
 4️⃣Rational Numbers (Q): Numbers that can be written as a fraction.
 5️⃣Irrational Numbers: Cannot be written as a            fraction (√2, π).
 6️⃣Real Numbers (R): Rational + irrational numbers.
-
+ 
 Example
 7 → Natural number
 -4 → Integer

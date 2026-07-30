@@ -1,3 +1,2 @@
-## Chapter_1.Basic Maths And Calculus Review 
- https://oreil.ly/GslO6
- https://github.com
+## Chapter_1.Basic Maths And Calculus Review 1️⃣https://oreil.ly/GslO6
+2️⃣https://github.com

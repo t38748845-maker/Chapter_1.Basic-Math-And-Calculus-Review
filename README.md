@@ -5,7 +5,7 @@
  # 1. Number Theory
 
 Definition:
-=>Number theory is the branch of mathematics that studies numbers and their properties.
+ Number theory is the branch of mathematics that studies numbers and their properties.
 
 Types of Numbers:
   Natural Numbers (N): 1, 2, 3, 4, ...

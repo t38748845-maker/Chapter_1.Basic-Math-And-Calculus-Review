@@ -2,7 +2,7 @@
 1️⃣https://oreil.ly/GslO6
 2️⃣https://github.com
 
-##1. Number Theory
+ 1. Number Theory
 Definition
 Number theory is the branch of mathematics that studies numbers and their properties.
 Types of Numbers
